@@ -14,3 +14,4 @@ const CONFIG = {
     mess: 'Ok chốt nhá',
     messDesc: 'chúc Mai Đỗ nv1 nha thi xong leo ctuong thôi bonus:https://gifft.me/3d#GgMclAIrTf5b3qx2hkdx',
     btnAccept: 'Okiiiii lun ',
+    messLink: 'https://gifft.me/3d#GgMclAIrTf5b3qx2hkdx'
